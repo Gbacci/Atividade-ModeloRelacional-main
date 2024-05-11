@@ -15,7 +15,7 @@
 ## Imagens
 
 <div align="center">
- <p>Modelo relacional</p>
+ <p><b>Modelo relacional</b></p>
 <img src="../Assets/modelorelacional.png">
 <p><b>Ferramenta utilizada:</b> <a href="https://sql.toad.cz/">Sql Designer</a>.</p>
 </div> 
