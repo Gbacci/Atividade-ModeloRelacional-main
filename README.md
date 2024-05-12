@@ -41,7 +41,7 @@ Tabela "users"
     <li><b>'password'</b>: VARCHAR(64). </li>
     <li><b>'city'</b>: VARCHAR(50). </li>
     <li><b>'country'</b>: VARCHAR(100). </li>
-    <li><b>'biological_gender'</b>: Bit. </li>
+    <li><b>'biological_gender'</b>: BIT. </li>
     <li><b>'id_general_forms'</b>: INTEGER, <b>Foreign Key</b> referenciando a tabela (<b>"general_forms"<b>). </li>
 </ul>
      
